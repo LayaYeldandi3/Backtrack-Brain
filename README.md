@@ -19,5 +19,5 @@ Welcome to **BackTrack Brain**, a unique twist on quizzing where the **answer co
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/reverse-quiz-game.git
+https://github.com/LayaYeldandi3/Backtrack-Brain
 cd reverse-quiz-game
