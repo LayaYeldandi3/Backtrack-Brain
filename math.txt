@@ -1,0 +1,115 @@
+Infinity
+Prime
+Composite
+Even
+Odd
+Factor
+Multiple
+Divisor
+Dividend
+Quotient
+Product
+Sum
+Difference
+Equation
+Variable
+Constant
+Coefficient
+Expression
+Inequality
+Function
+Parabola
+Slope
+Intercept
+Axis
+Origin
+Matrix
+Vector
+Angle
+Parallel
+Perpendicular
+Tangent
+Secant
+Chord
+Radius
+Diameter
+Circumference
+Probability
+Permutation
+Combination
+Square
+Hypotenuse
+Length × Width
+26
+62
+121
+64
+4
+125
+100
+Triangle
+0
+1
+Abacus
+Addition
+Angle Bisector
+Apex
+Arithmetic Sequence
+Average Speed
+Base Angle
+Bisector
+Cardinal Number
+Centimeter
+Circumcenter
+Clockwise
+Concave Polygon
+Convex Polygon
+Cross Product
+Cube
+Histogram
+Hypotenuse
+Radian
+Random Variable
+Range
+Ratio
+Rectangular Prism
+Standard Deviation
+Step Function
+Supplementary Angles
+Tetrahedron
+Transversal
+Tree Diagram
+Trigonometric Function
+Uniform Distribution
+Unit Fraction
+Variance
+Venn Diagram
+Weighted Average
+X-intercept
+Y-intercept
+Pascal’s Triangle
+Pentagonal Prism
+Percentile
+Perfect Cube
+Perfect Square
+Polar Coordinates
+Nonlinear Function
+Null Set
+Oblique Line
+One-to-One Function
+Ordered Pair
+Origin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
