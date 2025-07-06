@@ -20,4 +20,4 @@ Welcome to **BackTrack Brain**, a unique twist on quizzing where the **answer co
 ### 1. Clone the Repository
 ```bash
 https://github.com/LayaYeldandi3/Backtrack-Brain
-cd reverse-quiz-game
+cd Backtrack-Brain
