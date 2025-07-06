@@ -14,7 +14,7 @@ import google.generativeai as genai
 st.set_page_config(page_title="Reverse Quiz Game", page_icon="🔄", layout="wide")
 
 # Configure Google Gemini API (Replace with your API key)
-genai.configure(api_key="AIzaSyCA8_FOhqITTiowCCM6S7v8_bsjPIjsnho")  
+genai.configure(api_key="YOUR_API_KEY")  
 
 # Initialize AI Model
 model = genai.GenerativeModel("gemini-1.5-pro")
@@ -26,8 +26,6 @@ model = genai.GenerativeModel("gemini-1.5-pro")
 # Load Lottie Animation
 
 # Function to Play Success Sound
-
-
     
 def load_audio(audio_file):
     with open(audio_file, "rb") as f:
