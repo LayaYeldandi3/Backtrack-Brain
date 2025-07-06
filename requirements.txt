@@ -1,0 +1,6 @@
+streamlit
+streamlit-lottie
+google-generativeai
+requests
+pillow
+numpy
